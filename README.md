@@ -12,8 +12,3 @@ Algorithms Included:
 4) Merge Sort
 
 5) Quick Sort
-
-Key Features:-
--Uses the same input array for fair comparison
--Measures execution time using time.perf_counter()
--Clean and easy-to-read Python code
